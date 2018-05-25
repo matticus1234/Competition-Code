@@ -29,7 +29,7 @@ Limits
 1 ≤ R_i ≤ 106, for all i.
 1 ≤ Q_ij ≤ 106, for all i and j.
  * 
- * 
+ * Not Solved
  */
 	public static void main(String[] args) throws IOException {
 		 Scanner in = new Scanner(new BufferedReader(new InputStreamReader(System.in)));

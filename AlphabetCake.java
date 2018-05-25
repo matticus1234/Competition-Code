@@ -18,6 +18,8 @@ Limits
 There is at least one letter in the input grid.
 No letter appears in more than one cell in the input grid.
 It is guaranteed that at least one answer exists for each test case.
+
+Solved
  */
 public class AlphabetCake {
 
